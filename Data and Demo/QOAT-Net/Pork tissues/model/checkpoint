@@ -1,0 +1,6 @@
+model_checkpoint_path: "E:\\210401\347\250\213\345\272\217\346\235\220\346\226\231\\data\\pork\\model\\model.ckpt"
+all_model_checkpoint_paths: "E:\\210401\347\250\213\345\272\217\346\235\220\346\226\231\\data\\pork\\model\\model.ckpt-14400"
+all_model_checkpoint_paths: "E:\\210401\347\250\213\345\272\217\346\235\220\346\226\231\\data\\pork\\model\\model.ckpt-15300"
+all_model_checkpoint_paths: "E:\\210401\347\250\213\345\272\217\346\235\220\346\226\231\\data\\pork\\model\\model.ckpt-16200"
+all_model_checkpoint_paths: "E:\\210401\347\250\213\345\272\217\346\235\220\346\226\231\\data\\pork\\model\\model.ckpt-17100"
+all_model_checkpoint_paths: "E:\\210401\347\250\213\345\272\217\346\235\220\346\226\231\\data\\pork\\model\\model.ckpt"

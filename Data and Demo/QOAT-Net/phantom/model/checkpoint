@@ -1,0 +1,6 @@
+model_checkpoint_path: "H:\\sys cyclegan\\model.ckpt"
+all_model_checkpoint_paths: "H:\\sys cyclegan\\model.ckpt-36000"
+all_model_checkpoint_paths: "H:\\sys cyclegan\\model.ckpt-54000"
+all_model_checkpoint_paths: "H:\\sys cyclegan\\model.ckpt-72000"
+all_model_checkpoint_paths: "H:\\sys cyclegan\\model.ckpt-90000"
+all_model_checkpoint_paths: "H:\\sys cyclegan\\model.ckpt"

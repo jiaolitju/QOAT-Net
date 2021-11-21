@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d6e1561-8d64-4357-ab34-718e5d42d188" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="cycle_gan_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cycle_gan_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="76" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>..</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TF_ResNet_model.py" />
+        <option value="$PROJECT_DIR$/TFrecord_data.py" />
+        <option value="$PROJECT_DIR$/shuangyingshe.py" />
+        <option value="$PROJECT_DIR$/unet-readpicture2.py" />
+        <option value="$PROJECT_DIR$/TF_ResNet.py" />
+        <option value="$PROJECT_DIR$/ResNet_1.py" />
+        <option value="$PROJECT_DIR$/ResNet1_model.py" />
+        <option value="$PROJECT_DIR$/SYS_resnet.py" />
+        <option value="$PROJECT_DIR$/SYS_uaunet_fairesnet.py" />
+        <option value="$PROJECT_DIR$/SYS_faiunet_uarenet.py" />
+        <option value="$PROJECT_DIR$/venv/sys_2resnet.py" />
+        <option value="$PROJECT_DIR$/sys_2resnet_model.py" />
+        <option value="$PROJECT_DIR$/sys_uaunet_faires_model.py" />
+        <option value="$PROJECT_DIR$/sys_faiunet_uares_model.py" />
+        <option value="E:/我的E盘/深度学习/python程序/U-Net网上资料/U-net/U-net-dufanxin/Unet/unet-TF.py" />
+        <option value="$PROJECT_DIR$/unet_JiaCeng_TongDao.py" />
+        <option value="$PROJECT_DIR$/Test.py" />
+        <option value="$PROJECT_DIR$/unet_128channels.py" />
+        <option value="$PROJECT_DIR$/128model.py" />
+        <option value="$PROJECT_DIR$/TF_data2.py" />
+        <option value="$PROJECT_DIR$/SYS_add_conv.py" />
+        <option value="$PROJECT_DIR$/TF_data1.py" />
+        <option value="$PROJECT_DIR$/unet_add_conv.py" />
+        <option value="$PROJECT_DIR$/TF_data3.py" />
+        <option value="$PROJECT_DIR$/sys_p1.py" />
+        <option value="$PROJECT_DIR$/sys_add_conv_model.py" />
+        <option value="$PROJECT_DIR$/GAN-1-Model.py" />
+        <option value="$PROJECT_DIR$/GAN-3-Model.py" />
+        <option value="$PROJECT_DIR$/ZCGAN-1.py" />
+        <option value="$PROJECT_DIR$/WGAN-1.py" />
+        <option value="$PROJECT_DIR$/add_channnel_TV.py" />
+        <option value="$PROJECT_DIR$/addchannel_model.py" />
+        <option value="$PROJECT_DIR$/WGAN-1-Model.py" />
+        <option value="$PROJECT_DIR$/train.py" />
+        <option value="$PROJECT_DIR$/train_my.py" />
+        <option value="$PROJECT_DIR$/train_my_image.py" />
+        <option value="$PROJECT_DIR$/net.py" />
+        <option value="$PROJECT_DIR$/net_sys_unet.py" />
+        <option value="$PROJECT_DIR$/net_my.py" />
+        <option value="$PROJECT_DIR$/add_conv_model.py" />
+        <option value="$PROJECT_DIR$/get_tf_data.py" />
+        <option value="$PROJECT_DIR$/train_my_tf.py" />
+        <option value="$PROJECT_DIR$/TF_test_data.py" />
+        <option value="$PROJECT_DIR$/cycle_gan_test_batch.py" />
+        <option value="$PROJECT_DIR$/train_my_tf_test.py" />
+        <option value="$PROJECT_DIR$/cycle_gan_test_save.py" />
+        <option value="$PROJECT_DIR$/get-pyp.py" />
+        <option value="$PROJECT_DIR$/cycle_gan_train.py" />
+        <option value="$PROJECT_DIR$/0401test.py" />
+        <option value="$PROJECT_DIR$/net_gan.py" />
+        <option value="$PROJECT_DIR$/cycle_gan_test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="974" />
+    <option name="height" value="860" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PATDL_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cycle-GAN" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.cycle_gan_test">
+    <configuration name="TF_data_train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PATDL_Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TF_data_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="cycle_gan_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PATDL_Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cycle_gan_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="cycle_gan_test_batch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PATDL_Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cycle_gan_test_batch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="cycle_gan_train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PATDL_Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cycle_gan_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="train_my_tf_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PATDL_Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_my_tf_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.train_my_tf_test" />
+      <item itemvalue="Python.cycle_gan_test_batch" />
+      <item itemvalue="Python.TF_data_train" />
+      <item itemvalue="Python.cycle_gan_train" />
+      <item itemvalue="Python.cycle_gan_test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.cycle_gan_test" />
+        <item itemvalue="Python.cycle_gan_train" />
+        <item itemvalue="Python.TF_data_train" />
+        <item itemvalue="Python.train_my_tf_test" />
+        <item itemvalue="Python.cycle_gan_test_batch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d6e1561-8d64-4357-ab34-718e5d42d188" name="Default" comment="" />
+      <created>1550742727616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550742727616</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16180556" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.10138889" side_tool="true" weight="0.4711286" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8986111" weight="0.3061761" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32912987" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39895013" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32912987" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13049853" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8986111" visible="true" weight="0.33015874" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39895013" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32912987" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.10138889" side_tool="true" weight="0.4711286" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32912987" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://E:/周报/VGG.py" />
+    <entry file="file://$PROJECT_DIR$/unet_128channels.py" />
+    <entry file="file://$PROJECT_DIR$/unet-readpicture2.py" />
+    <entry file="file://$PROJECT_DIR$/128model.py" />
+    <entry file="file://$PROJECT_DIR$/../Unet_Test/continue_train_add_channel.py" />
+    <entry file="file://$PROJECT_DIR$/../Unet_Test/add_channnel_TV.py" />
+    <entry file="file://E:/深度学习/EIR_test_validiate/EIR_valid_loss.py" />
+    <entry file="file://$PROJECT_DIR$/TF_data2.py" />
+    <entry file="file://$PROJECT_DIR$/SYS_add_conv.py" />
+    <entry file="file://$PROJECT_DIR$/TF_data1.py" />
+    <entry file="file://D:/WangBingyuan/deep_learning/DLnet.py" />
+    <entry file="file://$PROJECT_DIR$/TF_data3.py" />
+    <entry file="file://$PROJECT_DIR$/sys_p1.py" />
+    <entry file="file://$PROJECT_DIR$/sys_add_conv_model.py" />
+    <entry file="file://$PROJECT_DIR$/GAN-2-Loss.py" />
+    <entry file="file://$PROJECT_DIR$/../GAN-2-Model.py" />
+    <entry file="file://$PROJECT_DIR$/GAN-3-Loss.py" />
+    <entry file="file://$PROJECT_DIR$/WGAN-TF-2.py" />
+    <entry file="file://$PROJECT_DIR$/BEGAN-1.py" />
+    <entry file="file://$PROJECT_DIR$/GAN-1-Model.py" />
+    <entry file="file://$PROJECT_DIR$/WGAN-1.py" />
+    <entry file="file://$PROJECT_DIR$/add_channnel_TV.py" />
+    <entry file="file://$PROJECT_DIR$/addchannel_model.py" />
+    <entry file="file://$PROJECT_DIR$/WGAN-1-Model.py" />
+    <entry file="file://H:/Python/qPAT_Test/TF_data1.py" />
+    <entry file="file://H:/Python/qPAT_Test/sys_p1.py" />
+    <entry file="file://H:/Python/PAIDL/add_channnel_TV.py" />
+    <entry file="file://E:/定量光声/qPAT_Test/sys_add_conv_model.py" />
+    <entry file="file://$PROJECT_DIR$/cycle_gan_test_batch.py" />
+    <entry file="file://$PROJECT_DIR$/add_conv_model.py" />
+    <entry file="file://$PROJECT_DIR$/unet_add_conv.py" />
+    <entry file="file://$PROJECT_DIR$/get_tf_data.py" />
+    <entry file="file://$PROJECT_DIR$/train_my_tf.py" />
+    <entry file="file://$PROJECT_DIR$/net_my.py" />
+    <entry file="file://$PROJECT_DIR$/evaluate.py" />
+    <entry file="file://$PROJECT_DIR$/test_image_reader.py" />
+    <entry file="file://$PROJECT_DIR$/TF_test_data.py" />
+    <entry file="file://$PROJECT_DIR$/train.py" />
+    <entry file="file://$PROJECT_DIR$/train_image_reader.py" />
+    <entry file="file://$PROJECT_DIR$/train_my_image.py" />
+    <entry file="file://$PROJECT_DIR$/train_my_tf_test.py" />
+    <entry file="file://$PROJECT_DIR$/unet_test_batch.py" />
+    <entry file="file://$PROJECT_DIR$/get-pip.py" />
+    <entry file="file://$PROJECT_DIR$/net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cycle_gan_test_save.py" />
+    <entry file="file://$PROJECT_DIR$/TF_data_train.py" />
+    <entry file="file://$PROJECT_DIR$/0401test.py" />
+    <entry file="file://$PROJECT_DIR$/cycle_gan_train.py" />
+    <entry file="file://$PROJECT_DIR$/net_gan.py" />
+    <entry file="file://$PROJECT_DIR$/../../DP-Net/program/DP-Net_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cycle_gan_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
