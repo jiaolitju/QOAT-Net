@@ -1,3 +1,11 @@
+QOAT-Net
+
+Author: Jiao Li (jiaoli@tju.edu.cn)
+Paper: Jiao Li, et.al "Deep learning-based quantitative optoacoustic tomography of deep tissues in the absence of labeled experimental data", OPTICA
+Contents: Codes, models and testing data involved in the paper.
+
+**Part of models (>100 Mb) need to be downloaded from the Google link mentioned in the paper.**
+
 System Requirements
 
 Hardware requirements
